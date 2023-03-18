@@ -17,3 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+Mobile.tap(findTestObject('Object Repository/S04_Cart/S04T1/android.widget.TextView - bobexample.com'), 0)
+
+Mobile.tap(findTestObject('Object Repository/S04_Cart/S04T1/android.widget.TextView - Login'), 0)
+
+Mobile.tap(findTestObject(''), 0)
+
+Mobile.tap(findTestObject('Object Repository/S04_Cart/S04T1/android.view.ViewGroup'), 0)
+
+Mobile.tap(findTestObject('Object Repository/S04_Cart/S04T1/android.widget.ImageView (3)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/S04_Cart/S04T1/android.view.ViewGroup (1)'), 0)
+
+Mobile.tap(findTestObject(''), 0)
+
+Mobile.tap(findTestObject('Object Repository/S04_Cart/S04T1/android.widget.TextView - Catalog'), 0)
+
+Mobile.tap(findTestObject('Object Repository/S04_Cart/S04T1/android.widget.ImageView (4)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/S04_Cart/S04T1/android.widget.TextView - Add To Cart'), 0)
+
+Mobile.closeApplication()
+
