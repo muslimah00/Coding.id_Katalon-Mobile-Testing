@@ -17,3 +17,24 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+Mobile.startApplication('G:\\My Drive\\Bootcamp\\[Coding.id] QA PT Nawa Data Solution\\Advanced\\File Tugas Oasys\\Android-MyDemoAppRN.1.2.0.build-231.apk', 
+    true)
+
+Mobile.tap(findTestObject('Object Repository/S03_Catalog/S03T2/android.widget.ImageView'), 0)
+
+Mobile.tap(findTestObject('Object Repository/S03_Catalog/S03T2/android.widget.TextView - Name - Ascending'), 0)
+
+Mobile.tap(findTestObject(''), 0)
+
+Mobile.tap(findTestObject('Object Repository/S03_Catalog/S03T2/android.widget.TextView - Name - Descending'), 0)
+
+Mobile.tap(findTestObject(''), 0)
+
+Mobile.tap(findTestObject('Object Repository/S03_Catalog/S03T2/android.widget.TextView - Price - Ascending'), 0)
+
+Mobile.tap(findTestObject(''), 0)
+
+Mobile.tap(findTestObject('Object Repository/S03_Catalog/S03T2/android.widget.TextView - Price - Descending'), 0)
+
+Mobile.closeApplication()
+
