@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>S03T5_Sort product price desc</name>
+   <name>S03T2_Sort product</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>e92b93ba-f69a-4b0a-bc50-3fe3f097d771</testCaseGuid>
+   <testCaseGuid>d9fe9891-b389-470b-ad11-730c91315caa</testCaseGuid>
 </TestCaseEntity>
